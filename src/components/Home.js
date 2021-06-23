@@ -40,7 +40,7 @@ function Home() {
            /> 
            <Section 
            
-           title="Model X" 
+           title="Model Z" 
            description="Order Online for Touchless Delivery"
            backgroundImg= "model-x.jpg"
            LeftButton="Custom Order"
