@@ -47,6 +47,43 @@ function Home() {
            RightButton="Existing Inventory"
            
            /> 
+
+           <Section 
+           
+           title="Solar Panels" 
+           description="Lowest Cost Solar Panels in America"
+           backgroundImg= "solar-panel.jpg"
+           LeftButton="Order Now"
+           RightButton="Learn More"
+           
+           /> 
+
+
+           <Section 
+           
+           title="Solar Roof" 
+           description="Produce Clean Energy From Your Roof"
+           backgroundImg= "solar-roof.jpg"
+           LeftButton="Order Now"
+           RightButton="Learn More"
+           
+           /> 
+
+
+           <Section 
+           
+           title="Accessories" 
+           description=""
+           backgroundImg= "accessories.jpg"
+           LeftButton="Shop Now"
+           
+           
+           /> 
+
+
+
+
+
         </Container>
     )
 }
